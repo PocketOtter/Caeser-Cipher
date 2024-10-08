@@ -1,4 +1,4 @@
-# Improved Caesar Cryptogram Decipher:
+# Caesar Cryptogram Decipher:
 # input text to encrypt
 
 text = input("Enter message: ")
